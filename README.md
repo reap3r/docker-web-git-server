@@ -6,6 +6,6 @@ IOT to run the server:
 2) ./run
 
 Push files to the repo with: 
-git push http://localhost:4443/admin master
+git push http://localhost:443/admin master
 
 The scripts are run every time a new push happens
